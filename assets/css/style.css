@@ -15,7 +15,7 @@
     font-family: 'Montserrat', sans-serif;
 } 
 body { 
-	background: #fff; 
+	background: #005175; 
 	margin: 0; 
 	color: #5a5a5a;
 }
@@ -76,12 +76,12 @@ body {
 	width:100%;
 }
 ::-moz-selection  {
-	color: #fff;
+	color: #005175;
 	text-shadow:none;
 	background:#2B2E31;
 }
 ::selection {
-	color: #fff;
+	color: #005175;
 	text-shadow:none;
 	background:#2B2E31;
 }
@@ -127,7 +127,7 @@ input {
 	padding: 11px 30px 12px;
 	border: 1px solid #b9b9af;
 	margin-bottom: 10px;
-	background-color: #fff;
+	background-color: #005175;
 	-webkit-transition: background-color 0.2s;
 	transition: background-color 0.2s;
 }
@@ -204,7 +204,7 @@ input {
 /* HEADER SECTION */
 #h {
 	/*background: url(../img/header.jpg) no-repeat center top;*/
-	background-color: #4c4cff;
+	background-color: #005175;
 	padding-top: 5px;
 	background-attachment: relative;
 	background-position: center center;
@@ -252,6 +252,7 @@ input {
 	padding:0 !important;
 	margin:0 !important;
 	display:block;
+	background-color: #005175;
 }
 
 
@@ -279,7 +280,7 @@ input {
 {
 	height:100%;
 	width:100%;
-	background-color:#4c4cff;
+	background-color:#006699;
 	background-color:rgba(76,76,255,.7);
 	text-align:center;
 }
@@ -288,7 +289,7 @@ input {
 #f {
 	padding-top: 0px;
 	padding-bottom: 0px;
-	background-color: #ed5c28;
+	background-color: #005175;
 	color: white;
 }
 
@@ -301,8 +302,8 @@ input {
 }
 
 #f svg:hover {
-	fill: #4c4cff;
-	stroke: #4c4cff;
+	fill: #006699;
+	stroke: #006699;
 }
 
 /*#f i {
