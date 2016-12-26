@@ -33,7 +33,7 @@ p {
 	font-weight: 300;
 	font-size: 18px; 
 	line-height: 28px;
-	color: #666; 
+	color: #fff; 
 	margin-top: 10px; 
 }
 
@@ -58,8 +58,9 @@ body {
 	clear: both;
 }
 .centered {text-align: center}
-.mt {margin-top: 50px;}
-.mb {margin-bottom: 50px;}
+.mt {margin-top: 30px;
+	margin-bottom: 30px;}
+.mb {margin-bottom: 30px;}
 .mtb {margin-top: 50px; margin-bottom: 50px;}
 .mtb2 { margin-top: 100px; margin-bottom: 100px;}
 .ptb {padding-top: 80px; padding-bottom: 80px;}
