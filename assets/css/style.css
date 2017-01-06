@@ -58,8 +58,8 @@ body {
 	clear: both;
 }
 .centered {text-align: center}
-.mt {margin-top: 30px;
-	margin-bottom: 30px;}
+.mt {padding-top: 30px;
+	padding-bottom: 30px;}
 .mb {margin-bottom: 30px;}
 .mbs {margin-bottom: 10px;}
 .mtb {margin-top: 50px; margin-bottom: 50px;}
@@ -245,7 +245,7 @@ input {
 
 /* GREY SECTION */
 #g {
-	padding-top: 0px;
+	padding-top: 5px;
 	padding-bottom: 0px;
 	background: #f5f5f5;
 }
